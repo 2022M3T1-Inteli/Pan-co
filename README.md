@@ -9,12 +9,12 @@
 ## Nome do grupo
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/amanda-fontes/">Amanda Ribeiro</a>
-- <a href="https://www.linkedin.com/in/gabrielriostorres/">Gabriel Rios</a>
-- <a href="https://www.linkedin.com/in/izabellaalmeida/">Izabella Almeida</a> 
-- <a href="https://www.linkedin.com/in/liviapcoutinho/">Lívia Coutinho</a> 
-- <a href="https://www.linkedin.com/in/pedro-hagge/">Pedro Baptista</a>
-- <a href="https://www.linkedin.com/in/vinicioslugli/">Vinicios Lugli</a> 
+- <a href="https://www.linkedin.com/in/amanda-fontes/">Amanda Ribeiro 1</a>
+- <a href="https://www.linkedin.com/in/gabrielriostorres/">Gabriel Rios 2</a>
+- <a href="https://www.linkedin.com/in/izabellaalmeida/">Izabella Almeida 3</a> 
+- <a href="https://www.linkedin.com/in/liviapcoutinho/">Lívia Coutinho 4</a> 
+- <a href="https://www.linkedin.com/in/pedro-hagge/">Pedro Baptista 5</a>
+- <a href="https://www.linkedin.com/in/vinicioslugli/">Vinicios Lugli 6</a> 
 
 ## 📝 Descrição
 
