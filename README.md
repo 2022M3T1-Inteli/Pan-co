@@ -4,9 +4,9 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# Modelo de predição com aprendizagem supervisionada
 
-## Nome do grupo
+## Panco
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/amanda-fontes/">Amanda Ribeiro</a>
@@ -17,8 +17,8 @@
 - <a href="https://www.linkedin.com/in/vinicioslugli/">Vinicios Lugli</a> 
 
 ## 📝 Descrição
-
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+A ideia do nosso modelo surgiu com a problemática que envolve o atendimento do Banco Pan, que, atualmente, não é personalizado para os possíveis propósitos do cliente e do banco. Ele é feito sem muito preparo dos atendentes quanto à situação atual de seus clientes: se estão atritados com o banco, buscam novos produtos ou são potenciais clientes novos. Este processo é um dos responsáveis por um grande número de reclamações, as quais fizeram com que a instituição figurasse como a segunda maior no ranking de reclamações de bancos do Brasil.
+Como proposta de solução, trouxemos um modelo com aprendizagem supervisionada capaz de classificar o status do cliente em atritado ou não atritado, a partir dos dados oferecidos pelo banco.
 
 ## 📁 Estrutura de pastas
 
