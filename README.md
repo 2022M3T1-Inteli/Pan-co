@@ -4,11 +4,11 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Modelo de predição com aprendizagem supervisionada
+# Modelo de predição com Aprendizagem Supervisionada
 
 ## Panco
 
-## Integrantes: 
+## 🍞 Integrantes: 
 - <a href="https://www.linkedin.com/in/amanda-fontes/">Amanda Ribeiro</a>
 - <a href="https://www.linkedin.com/in/gabrielriostorres/">Gabriel Rios</a>
 - <a href="https://www.linkedin.com/in/izabellaalmeida/">Izabella Almeida</a> 
@@ -21,25 +21,12 @@ A ideia do nosso modelo surgiu com a problemática que envolve o atendimento do 
 Como proposta de solução, trouxemos um modelo com aprendizagem supervisionada capaz de classificar o status do cliente em atritado ou não atritado, a partir dos dados oferecidos pelo banco.
 
 ## 📁 Estrutura de pastas
-
-```
-Alunos inteli (remover essa observação do readme.md após leitura e execução):
-
-Supondo que você é da Turma 4 e Projeto 5, substitua:
-
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf
-por
-T4_G5_V01_Predictive_Model_Document.pdf
-
-Faça o mesmo para a documentação em formato DOCX.
-```
-
-|--> documentos<br>
-  &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.docx<br>
-|--> notebooks<br>
-  &emsp;|--> T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+📂 documentos <br>
+  &emsp;| 📁 outros <br>
+  &emsp;| 📁 antigos <br>
+  &emsp;| 📃 T1_G3_V2.6_Predictive_Model_Document.pdf<br>
+📂 notebooks<br>
+  &emsp;|🤖 T1_G3_V4.2_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
