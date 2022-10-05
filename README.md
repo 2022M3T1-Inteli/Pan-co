@@ -47,18 +47,23 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 1.0.0 - 01/08/2022
+    * Primeiro Commit.
+* 1.0.1 - 15/08/2022
+    * Limpeza e tratamento completo dos dados
+    * Troca de dados nulos por 0
+    * Remoção das colunas de cpf, anomes, e renda
+* 1.0.2 - 29/08/2022
+    * Diversos modelos rodando para os mesmos dados
+    * Modelo `KNN` com métricas estranhas
+    * Modelo `Gradient Boosting` e `Random Forest` com métricas excelentes
+* 1.0.3 - 12/09/2022
+    * Busca por hiperparâmetros através do `Random Search` e `Grid Search`
+    * Atualização da documentação
+* 1.0.4 -26/09/2022
+    * Preparação da apresentação final
+    * Deploy do modelo final escolhido (`Gradient Boosting`)
+    * Revisão do Collab e da documentação
 
 ## 📋 Licença/License
 
