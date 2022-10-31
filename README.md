@@ -6,7 +6,8 @@
 
 # Modelo de predição com Aprendizagem Supervisionada
 
-## Panco
+## Pan&co
+
 
 ## 🍞 Integrantes: 
 - <a href="https://www.linkedin.com/in/amanda-fontes/">Amanda Ribeiro</a>
